@@ -6,6 +6,10 @@ Bu projede bir e-ticaret web sitesinin sunduğu en temel özelliklerden biri ola
   <img src="shopping-cart.png" alt="Shopping Cart"/>
 </p>
 
+## Demo
+___
+[Click to See](https://oguzcanuzunoner.github.io/React-Shopping-Cart/)
+
 ### Proje Nasıl Çalıştırılır
 
 - Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu klasörde "npm install" komutu ile gerekli paketlerin yüklenmesi gerekiyor.
